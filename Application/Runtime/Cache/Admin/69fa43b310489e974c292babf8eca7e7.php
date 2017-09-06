@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?><p>欢迎登陆后台</p>
